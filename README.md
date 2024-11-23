@@ -1,2 +1,2 @@
 # FYP-Stories
-Stories storage for Follow Your Path
+Stories storage for the "Follow Your Path" __APP__.
